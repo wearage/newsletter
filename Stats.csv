@@ -1,0 +1,4 @@
+id,username,user_replied,message_count,sensitive_info_sent,initial_message_sent,created_at,updated_at
+5161,Example1,false,1,false,true,2024-12-04 13:09:00.828,2024-12-04 13:09:00.828
+5158,Example2,true,6,true,true,2024-12-04 13:08:00.893,2024-12-04 13:28:18.386
+5167,Example3,false,4,false,true,2024-12-04 14:06:46.175,2024-12-04 14:06:46.175
